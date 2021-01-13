@@ -2,4 +2,4 @@
 
 
 
-- [Clickable Button](https://carterspurgin98.github.io/GitHubPagesDemo/clickableButton.md)
+- [Clickable Button](https://carterspurgin98.github.io/GitHubPagesDemo/components/clickableButton.md)
